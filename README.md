@@ -19,6 +19,7 @@ A basic paint application built using HTML, CSS, and JavaScript. This applicatio
     cd simple-paint-app
     ```
 
+
 3. Open `index.html` in your web browser to run the application.
 
 ## Usage
