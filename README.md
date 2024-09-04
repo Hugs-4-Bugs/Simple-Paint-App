@@ -2,6 +2,7 @@
 
 A basic paint application built using HTML, CSS, and JavaScript. This application allows users to draw freehand shapes and lines on a canvas.
 
+
 ## Features
 - Draw freehand lines
 - Change brush color
